@@ -5,4 +5,4 @@ This repo is for learning python and working through the big book of small pytho
 
 ## Projects List
 1. Bagels.py
-
+2. Birthday Paradox
